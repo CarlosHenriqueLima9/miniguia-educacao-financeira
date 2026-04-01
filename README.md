@@ -60,7 +60,7 @@ Educação financeira é a capacidade de entender e gerenciar o dinheiro de form
 ## 🤖 NotebookLM
 
 Link do caderno utilizado no projeto:
-https://notebooklm.google.com/notebook/db717fc7-536c-4fcf-a166-930fdb53e678/preview
+https://notebooklm.google.com/notebook/db717fc7-536c-4fcf-a166-930fdb53e678
 
 ## 💡 Reflexão Final
 
