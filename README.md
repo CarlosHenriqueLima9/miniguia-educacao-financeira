@@ -62,5 +62,8 @@ Educação financeira é a capacidade de entender e gerenciar o dinheiro de form
 Link do caderno utilizado no projeto:
 https://notebooklm.google.com/notebook/db717fc7-536c-4fcf-a166-930fdb53e678/preview
 
-# miniguia-educacao-financeira
-Miniguia prático de educação financeira para jovens, com foco em organização, planejamento e investimentos.
+## 💡 Reflexão Final
+
+Este projeto reforçou a importância da educação financeira não apenas como conhecimento técnico, mas como uma habilidade essencial para construção de uma vida equilibrada e próspera.
+
+Além disso, evidenciou como ferramentas de IA podem acelerar o aprendizado quando utilizadas de forma estratégica.
